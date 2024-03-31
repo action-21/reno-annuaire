@@ -14,7 +14,7 @@ paths:
   /accompagnateurs:
     get:
       summary: Recherche une liste d'accompagnateurs
-      description: Ce endpoint interroge l'opendata des établissements égréés Mon Accompagnateur Rénov'
+      description: Ce endpoint interroge l'opendata des établissements agréés Mon Accompagnateur Rénov'
       tags:
         - Accompagnateur
       parameters:
