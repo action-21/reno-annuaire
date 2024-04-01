@@ -6,16 +6,12 @@ Ce projet propose une API dédiée à la recherche des professionnels de la rén
 
 ### Objectifs
 
-- 🎯 Proposer un service numérique d'annuaire des professionnels de la rénovation énergétique
+🎯 Proposer un service numérique d'annuaire des professionnels de la rénovation énergétique  
 
 ### Usage
 
-- 👉 Information à l'usager dans le cadre du service public de la rénovation énergétique
-- 👉 Application des règles de cohérence dans le cadre des demandes de financement de travaux (doctrine CEE/MPR)
-
-### Livrables
-
-- 🛠️ API dédiée
+👉 Information à l'usager dans le cadre du service public de la rénovation énergétique  
+👉 Application des règles de cohérence dans le cadre des demandes de financement de travaux (doctrine CEE/MPR)  
 
 ### Contact
 
