@@ -19,12 +19,18 @@ Ce projet propose une API dédiée à la recherche des professionnels de la rén
 
 ## Feuille de route
 
-1. Définition du périmètre de l'annuaire
-2. Inventaire des données disponibles
-3. Design de l'API
-4. Développement et déploiement de l'API
+1. ~~Conceptualisation~~
+2. ~~Planification~~
+3. **Conception**
+4. Déploiement
 
-### 1. Définition du périmètre de l'annuaire
+## Contribuer
+
+N'hésitez pas à échanger en créant de nouvelles [discussions](https://github.com/renolab/audit/discussions).
+
+## Concepts
+
+### Périmètre de l'annuaire
 
 Quatre métiers ont été identifiés comme intervenant d'un parcours de rénovation énergétique :
 
@@ -33,7 +39,7 @@ Quatre métiers ont été identifiés comme intervenant d'un parcours de rénova
 - Les auditeurs
 - Les professionnels de la rénovation énergétique
 
-### 2. Inventaire des données disponibles
+### Inventaire des données disponibles
 
 **Conseillers en rénovation énergétique**
 
@@ -55,9 +61,16 @@ Une demande d'ouverture des données a été faite sur data.gouv.fr.
 - [Historique des entreprises RGE depuis 2014](https://data.ademe.fr/datasets/historique-rge)
 - [Liste des entreprises RGE](https://data.ademe.fr/datasets/liste-des-entreprises-rge-2)
 
-### 3. Design de l'API
+## Planification
 
-**Opérations à implémenter**
+1. ~~Compilation des sources de données disponibles~~
+2. ~~Demande d'ouverture des données manquantes~~
+3. Design de l'API
+4. Développement et déploiement de l'API
+
+## API
+
+### Actions métiers
 
 - Rechercher une liste des établissements agréés Mon Accompagnateur Rénov' par SIREN, date et filtres géographiques
 - Rechercher un établissement agréé Mon Accompagnateur Rénov' par son numéro de SIRET et date
@@ -68,6 +81,9 @@ Une demande d'ouverture des données a été faite sur data.gouv.fr.
 - Rechercher une liste de professionnels RGE par SIREN, date, domaines RGE couverts et filtres géographiques
 - Rechercher un professionnel RGE par son numéro de SIRET, date et domaines RGE couverts
 
-### 4. Développement et déploiement de l'API
+### Stack
 
-**🕰️ A venir**
+- Typescript
+- ExpressJS
+- Vite
+- OpenAPI
