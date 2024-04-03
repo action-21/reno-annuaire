@@ -26,7 +26,7 @@ Ce projet propose une API dédiée à la recherche des professionnels de la rén
 
 ## Contribuer
 
-N'hésitez pas à échanger en créant de nouvelles [discussions](https://github.com/renolab/audit/discussions).
+N'hésitez pas à échanger en créant de nouvelles [discussions](https://github.com/renolab/annuaire/discussions).
 
 ## Concepts
 
