@@ -12,6 +12,7 @@ Ce projet propose une API dédiée à la recherche des professionnels de la rén
 
 👉 Information à l'usager dans le cadre du service public de la rénovation énergétique  
 👉 Application des règles de cohérence dans le cadre des demandes de financement de travaux (doctrine CEE/MPR)  
+👉 Application des règles de cohérence dans le cadre des contrôles des travaux  
 
 ### Contact
 
@@ -80,6 +81,10 @@ Une demande d'ouverture des données a été faite sur data.gouv.fr.
 - Rechercher un espace conseil France Rénov' par son identifiant unique
 - Rechercher une liste de professionnels RGE par SIREN, date, domaines RGE couverts et filtres géographiques
 - Rechercher un professionnel RGE par son numéro de SIRET, date et domaines RGE couverts
+
+### Design
+
+Une documentation interactive de l'API est accessible en copiant le contenu du fichier [openapi.yaml](https://raw.githubusercontent.com/renolab/annuaire/main/public/openapi.yaml) dans [l'éditeur Swagger](https://editor-next.swagger.io/).
 
 ### Stack
 
